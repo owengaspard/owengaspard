@@ -19,4 +19,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=owengaspard&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=owengaspard&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=owengaspard&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/d7320568-101a-4346-a565-b617d2709515.svg)](https://wakatime.com/@d7320568-101a-4346-a565-b617d2709515)
