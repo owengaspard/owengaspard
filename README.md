@@ -11,10 +11,10 @@
 
 - 📫 Contact me: **[contact@ogaspard.com](mailto:contact@ogaspard.com)**
 
-<a align="right" target="_blank" href="https://blog.ogaspard.com/">
+<a align="center" target="_blank" href="https://blog.ogaspard.com/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logo.png">
-  <img src="logo.png" width="96">
+  <img align="center" src="logo.png" width="96">
 </picture>
 
 ## 💻 Tech Stack
