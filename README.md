@@ -1,4 +1,4 @@
-# Hi 👋, I'm Owen!
+<h1 align="center">Hi 👋, I'm Owen!</h1>
 
 ## 💫 About Me :
 - 🔭 I’m currently working on [a Redit Video Maker Bot](https://github.com/elebumm/RedditVideoMakerBot/)
