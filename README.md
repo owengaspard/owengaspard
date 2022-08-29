@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and Swift**
 
-- 📝 I occasionally write on [https://blog.ogaspard.com/](https://blog.ogaspard.com/)
+- 📝 I occasionally write on [https://blog.ogaspard.com/](https://ogaspard.com/)
 
 - 📫 Contact me: **[contact@ogaspard.com](mailto:contact@ogaspard.com)**
 
