@@ -5,9 +5,9 @@
 
 - ✍🏼 I’m also working on [FTCSimulator](https://ftcsimulator.com)
 
-- 🌱 I’m currently learning **Java and Swift**
+- 🌱 I’m currently mastering **Java**
 
-- 📝 I occasionally write on [https://blog.ogaspard.com/](https://ogaspard.com/)
+- 📝 I occasionally write on [https://ogaspard.com/](https://ogaspard.com/)
 
 - 📫 Contact me: **[contact@ogaspard.com](mailto:contact@ogaspard.com)**
 
