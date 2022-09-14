@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owen!</h1>
 
 ## 💫 About Me :
-- 🔭 I’m currently working on [a Redit Video Maker Bot](https://github.com/elebumm/RedditVideoMakerBot/)
+- 🔭 I’m currently working on [POWERPLAY Code](https://github.com/jesuitbluejays/)
 
 - ✍🏼 I’m also working on [FTCSimulator](https://ftcsimulator.com)
 
