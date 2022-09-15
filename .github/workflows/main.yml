@@ -19,7 +19,7 @@ jobs:
         with:
           filename: metrics.plugin.introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: github
+          user: owengaspard
           base: header
           plugin_introduction: yes
       - uses: lowlighter/metrics@latest
@@ -28,6 +28,20 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          plugin_languages: yes
+          plugin_languages_threshold: 2%
+          plugin_languages_ignored: html, css, shell
+          plugin_languages_skipped: lowlighter/metrics
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
