@@ -8,4 +8,6 @@
 
 ![introduction](metrics.plugin.notable.svg)
 
+![introduction](metrics.plugin.wakatime.svg)
+  
 </a>
