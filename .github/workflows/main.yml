@@ -37,9 +37,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           plugin_languages: yes
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages_threshold: 2%
           plugin_languages_ignored: html, css, shell
           plugin_languages_skipped: lowlighter/metrics
+          filename: metrics.plugin.language.svg      
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
