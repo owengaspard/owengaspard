@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Owen!</h1>
+<a href="https://ogaspard.com">
 
-## 💫 About Me :
-- 🔭 I’m currently working on [POWERPLAY Code](https://github.com/jesuitbluejays/)
+![introduction](metrics.plugin.introduction.svg)
 
-- ✍🏼 I’m also working on [FTCSimulator](https://ftcsimulator.com)
+![introduction](metrics.plugin.habits.facts.svg)
 
-- 🌱 I’m currently mastering **Java**
+![introduction](metrics.plugin.isocalendar.svg)
 
-- 📝 I occasionally write on [https://ogaspard.com/](https://ogaspard.com/)
+![introduction](metrics.plugin.notable.svg)
 
-- 📫 Contact me: **[contact@ogaspard.com](mailto:contact@ogaspard.com)**
-
-<img src="/github-metrics.svg" alt="Metrics" width="600">
+</a>
