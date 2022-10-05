@@ -4,7 +4,7 @@
 
 [![introduction](metrics.plugin.isocalendar.svg)](#)
 
-[![introduction](metrics.plugin.notable.svg](#)
+[![introduction](metrics.plugin.notable.svg)](#)
 
 [![introduction](metrics.plugin.wakatime.svg)](#)
 
